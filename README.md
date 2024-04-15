@@ -1,4 +1,4 @@
-# CODSOFT Internship
+# CODSOFT Internship - Web Development Intern
 
 Level 1
 
